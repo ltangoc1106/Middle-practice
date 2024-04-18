@@ -1,0 +1,23 @@
+@import url('https://fonts.cdnfonts.com/css/noto-sans');
+
+.avatar-2 img {
+   width: 100%;
+}
+
+.ctimg{
+    margin-top: 5%;
+}
+
+.content-intro{
+    font-family: 'Noto Sans', sans-serif;
+    margin-left: 4%;
+    font-size: 130%;
+    text-align: justify;
+    line-height: 200%;
+    letter-spacing: 0em;
+    --para-spacing: 0;
+    text-transform: none;
+    --head-indent: 0;
+    --numeric-list-marker: none;
+    list-style-type: none;
+}

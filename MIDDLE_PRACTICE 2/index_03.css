@@ -1,0 +1,107 @@
+@import url('https://fonts.cdnfonts.com/css/vintage-style');
+@import url('https://fonts.cdnfonts.com/css/style-script');
+@import url('https://fonts.cdnfonts.com/css/good');
+@import url('https://fonts.cdnfonts.com/css/josefin-sans');
+@import url('https://fonts.cdnfonts.com/css/youra-script');
+@import url('https://fonts.cdnfonts.com/css/bestnight');
+@import url('https://fonts.cdnfonts.com/css/brown-sugar-2');
+@import url('https://fonts.cdnfonts.com/css/hambut');
+@import url('https://fonts.cdnfonts.com/css/meldina');
+@import url('https://fonts.cdnfonts.com/css/gondessy');
+@import url('https://fonts.cdnfonts.com/css/genty-demo');
+@import url('https://fonts.cdnfonts.com/css/dancing-script');
+@import url('https://fonts.cdnfonts.com/css/masconia');
+@import url('https://fonts.cdnfonts.com/css/arima');
+.running-text {
+    margin-bottom: -2%;
+    margin-top: 1%;
+    font-weight: 200;
+    font-style: normal;
+    color: rgb(169, 27, 96);
+    text-decoration: none;
+    font-size: 30px;
+    line-height: 48px;
+    letter-spacing: 0em;
+    --para-spacing: 0;
+    text-transform: none;
+    --head-indent: 0;
+    --numeric-list-marker: none;
+    list-style-type: none;
+    font-family: 'Hambut', sans-serif;
+}
+
+.present{
+    font-size: 156%;
+    color: rgb(169, 27, 96);
+    line-height: 200%;
+    letter-spacing: 4px;
+    --para-spacing: 0;
+    text-transform: none;
+    --head-indent: 0;
+    --numeric-list-marker: none;
+    list-style-type: none;
+    text-align: justify;
+}
+
+.kntt p ul li{
+    margin-top: 10%;
+}
+
+.index15 span {
+    font-weight: 700;
+}
+.index15 p {
+    text-align: justify;
+}
+.index15 ul {
+    margin-left: 1%;
+}
+
+.index18{
+    margin-top: -12%;
+    font-size: 188%;
+}
+
+.index18 span {
+    font-weight: 700;
+}
+.index18 p {
+    text-align: justify;
+}
+.index18 ul {
+    margin-left: 1%;
+}
+
+.index19{
+    font-size: 200%;
+}
+
+.index19 span {
+    font-weight: 700;
+}
+.index19 p {
+    text-align: justify;
+}
+.index19 ul {
+    margin-left: 1%;
+    margin-top: -4%;
+}
+
+.index20{
+    font-size: 188%;
+}
+
+.index20 span {
+    font-weight: 700;
+}
+.index20 p {
+    text-align: justify;
+}
+
+.index20 ul {
+    margin-left: 1%;
+    width: 50%;
+}
+.index20 ul li{
+    text-align: justify;
+}

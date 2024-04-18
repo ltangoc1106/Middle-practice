@@ -1,0 +1,99 @@
+@import url('https://fonts.cdnfonts.com/css/poppins');
+@import url('https://fonts.cdnfonts.com/css/all-season');
+.container-2 {
+    width: 94%;
+    height: 100%;
+    padding: 1% 2% 2% 2%;
+    border-radius: 20px;
+    transform-origin: 0px 0px;
+    margin-top: 1%;
+    overflow: hidden;
+    touch-action: pan-x pan-y pinch-zoom;
+}
+
+.container-2 .annie {
+    margin-left: 38%;
+    margin-bottom: 2%;
+}
+
+.container-2 .mark-top span{
+    font-style: normal;
+    color: rgb(169, 27, 96);
+    text-decoration: none;
+    font-size: 44px;
+    line-height: 61px;
+    letter-spacing: 0em;
+    --para-spacing: 0;
+    text-transform: none;
+    --head-indent: 0;
+    --numeric-list-marker: none;
+    list-style-type: none;
+}
+
+.avatar-01{
+    width: 40%;
+    margin-top: -7%;
+}
+
+.port-folio{
+    width: 45%;
+    margin-top: 2%;
+    margin-left: -5%;
+    margin-right: -4%;
+}
+.bot-folio{
+    margin-top: -4%;
+    font-family: 'Masconia', sans-serif;
+    font-weight: 550;
+}
+.bot-folio span {
+    font-style: normal;
+    color: rgb(169, 27, 96);
+    text-decoration: none;
+    font-size: 37.9656px;
+    line-height: 53px;
+    letter-spacing: 0em;
+    --para-spacing: 0;
+    text-transform: none;
+    --head-indent: 0;
+    --numeric-list-marker: none;
+    list-style-type: none;
+}
+
+#avatarSwitch{
+    width: 60%;
+}
+
+.contact-group a:nth-child(3) {
+    position: relative; 
+    left: -2%;
+    z-index: 99;
+}
+.contact-group a:nth-child(2) {
+    position: relative; 
+    left: 3%;
+    z-index: 90;
+}
+
+.contact-group a:nth-child(1) {
+    position: relative; 
+    left: 6%;
+    z-index: 80;
+}
+
+.contact-group a:nth-child(4) {
+    position: relative; 
+    left: -6%;
+    z-index: 90;
+}
+
+.contact-group a:hover {
+    z-index: 999;
+    margin-top: -1%;
+}
+
+.contact-group
+{
+    position: relative;
+    z-index: 1;
+}

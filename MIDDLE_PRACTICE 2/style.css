@@ -1,0 +1,179 @@
+@import url("https://fonts.cdnfonts.com/css/genty-demo");
+@import url('https://fonts.cdnfonts.com/css/poppins');
+@import url('https://fonts.cdnfonts.com/css/arima');
+
+body {
+   color: rgb(169, 27, 96);
+   margin: 0;
+   padding: 0;
+   background-image: url('images/background.svg'); 
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 100vh;
+   background-attachment: fixed;
+}
+
+
+img {
+  pointer-events: none; 
+  -webkit-touch-callout: none; /* Safari */
+  -webkit-user-select: none; /* Safari 3+ */
+  -khtml-user-select: none; /* Safari 3.1+ */
+  -moz-user-select: none; /* Firefox 2+ */
+  -ms-user-select: none; /* IE 10+ */
+  user-select: none; /* Ngăn chặn bôi đen trên tất cả các trình duyệt */
+}
+
+.annie{
+    font-family: 'Genty Demo', sans-serif;
+    color: rgb(109, 18, 63);
+    line-height: 83px;
+    letter-spacing: 0em;
+    --para-spacing: 0;
+    text-transform: none;
+    --head-indent: 0;
+    --numeric-list-marker: none;
+    list-style-type: none;                                                
+}
+
+.mark-top{
+  font-weight: 1000;
+  font-family: 'Arima', sans-serif;
+  font-size: 30px;
+  color: rgb(169, 27, 96);   
+   line-height: 34px;
+    letter-spacing: 0em;
+    --para-spacing: 0;
+    text-transform: uppercase;
+    --head-indent: 0;
+    --numeric-list-marker: none;
+    list-style-type: none;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: #6D123F;
+}
+
+.flex {
+  display: flex;
+  gap: 5%;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.flex-row-reverse {
+  flex-direction: row-reverse;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.flex-column-reverse {
+  flex-direction: column-reverse;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.flex-wrap-reverse {
+  flex-wrap: wrap-reverse;
+}
+
+.flex-justify-start {
+  justify-content: flex-start;
+}
+
+.flex-justify-end {
+  justify-content: flex-end;
+}
+
+.flex-justify-center {
+  justify-content: center;
+}
+
+.flex-justify-space-between {
+  justify-content: space-between;
+}
+
+.flex-justify-space-around {
+  justify-content: space-around;
+}
+
+.flex-justify-space-evenly {
+  justify-content: space-evenly;
+}
+
+.flex-align-start {
+  align-items: flex-start;
+}
+
+.flex-align-end {
+  align-items: flex-end;
+}
+
+.flex-align-center {
+  align-items: center;
+}
+
+.flex-align-baseline {
+  align-items: baseline;
+}
+
+.flex-align-stretch {
+  align-items: stretch;
+}
+
+.flex-align-content-start {
+  align-content: flex-start;
+}
+
+.flex-align-content-end {
+  align-content: flex-end;
+}
+
+.flex-align-content-center {
+  align-content: center;
+}
+
+.flex-align-content-space-between {
+  align-content: space-between;
+}
+
+.flex-align-content-space-around {
+  align-content: space-around;
+}
+
+.flex-align-content-stretch {
+  align-content: stretch;
+}
+
+.flex-self-auto {
+  align-self: auto;
+}
+
+.flex-self-start {
+  align-self: flex-start;
+}
+
+.flex-self-end {
+  align-self: flex-end;
+}
+
+.flex-self-center {
+  align-self: center;
+}
+
+.flex-self-baseline {
+  align-self: baseline;
+}
+
+.flex-self-stretch {
+  align-self: stretch;
+}
